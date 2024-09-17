@@ -1,5 +1,6 @@
 package com.aakanksha.blog.config;
 
+// this is app constants
 public class AppConstants {
     public static final String PAGE_NUMBER="0";
     public static final String PAGE_SIZE="10";
